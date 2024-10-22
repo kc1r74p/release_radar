@@ -1,1 +1,5 @@
-# release_radar
+# Realease radar
+
+Discover upcoming release predictions for various companies
+
+
