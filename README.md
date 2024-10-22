@@ -1,5 +1,5 @@
-# Realease radar
+# Release radar
 
-Discover upcoming release predictions for various companies
+AI predictions and estimations of products 👀
 
 
